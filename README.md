@@ -1,18 +1,32 @@
 # Amazon Data Analysis
 
-### Overview
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools and Technology](#tools-and-technology)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results And Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+  
+
+### Project Overview
 This data analysis project involves cleaning, transforming, and analyzing Amazon product data (product and customer review data) to generate insights that guides product improvement, marketing strategy, and customer engagement.
 
 ### Data Sources
 
 Amazon data: The primary dataset used for this analysis is the dataset scaraped from "Amazon product pages" containing detailed information about Products and customer review.
 
-### Tools and Technologies
+### Tools and Technology
 
 - Microsoft Excel- Data cleaning, Pivot Tables, Dashboard [Download_here](https//microsoft.com)
 - Git & GitHub for version control.
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
@@ -21,7 +35,7 @@ In the initial data preparation phase, we performed the following tasks:
 4. Simplify product names for better reporting.
 5. Data cleaning and formating.
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 EDA involvoed exploring the Product and Review data to answer key questions, such as:
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
