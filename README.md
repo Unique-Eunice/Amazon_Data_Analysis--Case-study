@@ -80,7 +80,7 @@ The analysis results are summarized as follows:
 
 ### Limitations
 
-I had to replace some missing values with assumed values and i also had to remove some data that would have affected the accuracy of my analysis. There are might still be a few outliers, However, there is a linear relationship dicount price and rating count.
+I had to replace some missing values with assumed values and i also had to remove some data that would have affected the accuracy of my analysis. There might still be a few outliers, However, there is a linear relationship between discount price and rating count.
 
 ### References
 1. Incubator hub
